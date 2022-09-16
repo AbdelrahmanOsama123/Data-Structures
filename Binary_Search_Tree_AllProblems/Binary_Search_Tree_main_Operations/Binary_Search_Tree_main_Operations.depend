@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1656928395 source:c:\users\hp\onedrive\desktop\binary_search_tree_main_operations\main.cpp
+	<iostream>
+
+1657181901 source:c:\users\hp\onedrive\desktop\binary_search_tree_allproblems\binary_search_tree_main_operations\main.cpp
+	<iostream>
+	<queue>
+
+1657181936 source:e:\c++ all problems\binary_search_tree_allproblems\binary_search_tree_main_operations\main.cpp
+	<iostream>
+	<queue>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660498002 source:e:\c++ all problems\binary_search_tree_allproblems\check_if_bst-balanced\main.cpp
+	<iostream>
+	<queue>
+

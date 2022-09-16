@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1656774413 source:c:\users\hp\onedrive\desktop\print_paths_recursion\main.cpp
+	<iostream>
+	<queue>
+
+1659872328 source:e:\c++ all problems\binary_tree_all_problems\print_paths_recursion\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+

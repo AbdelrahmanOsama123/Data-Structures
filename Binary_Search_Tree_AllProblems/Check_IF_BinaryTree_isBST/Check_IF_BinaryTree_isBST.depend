@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1656956716 source:c:\users\hp\onedrive\desktop\check_if_binarytree_isbst\main.cpp
+	<iostream>
+	<queue>
+
